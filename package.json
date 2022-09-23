@@ -1,0 +1,8 @@
+{
+  "name": "qilin-api",
+  "module": "./src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.1.0"
+  }
+}
