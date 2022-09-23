@@ -1,5 +1,5 @@
 import * as express from 'express';
-import { DiscordEmbed } from '../utils/Interfaces';
+import { DiscordEmbed } from '../utils/notifications/Interfaces';
 
 export default class NotificationController {
     public basePath = '/notify';
