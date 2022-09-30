@@ -19,7 +19,7 @@ export default {
         },
     },
     api: {
-        port: 443,
+        port: 3000,
         media: "",
         https: {
             cert: "",
